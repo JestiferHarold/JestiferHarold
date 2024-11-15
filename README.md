@@ -2,7 +2,7 @@
 - 👀 I’m interested in you
 - 🌱 I’m currently learning asd
 - 💞️ I’m looking to collaborate on any thing related to low level computer stuff
-- 📫 How to reach me Sanjay.pandian@tutamail.com
+- 📫 How to reach me Rejjindiff@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I like asding about asd
 
