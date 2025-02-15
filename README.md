@@ -1,3 +1,3 @@
-I'm an inconsequntial man
+Hallo I'm Sanjay 👋🤓.
 
-- Contact me via Email : Rejjindiff@gmail.com
+I like to eat, drink and yap. 
