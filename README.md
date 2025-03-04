@@ -118,6 +118,10 @@ npm install -g create-vite
 ```
 create-vite --version
 ```
+Tailwind
+```
+npm install -g tailwindcss 
+```
 
 Give examples
 
@@ -144,17 +148,16 @@ Add notes about how to use the system.
 
 ## ⛏️ Built With <a name = "tech_stack"></a>
 
-- [MongoDB](https://www.mongodb.com/) - Database
-- [Express](https://expressjs.com/) - Server Framework
-- [VueJs](https://vuejs.org/) - Web Framework
+- [AppWrite](https://www.mongodb.com/) - Database
+<!-- - [Express](https://expressjs.com/) - Server Framework -->
+<!-- - [VueJs](https://vuejs.org/) - Web Framework -->
 - [NodeJs](https://nodejs.org/en/) - Server Environment
 
 ## ✍️ Authors <a name = "authors"></a>
 
-- [@kylelobo](https://github.com/kylelobo) - Idea & Initial work
-
-See also the list of [contributors](https://github.com/kylelobo/The-Documentation-Compendium/contributors)
-who participated in this project.
+- [@Dharshan2208](https://github.com/Dharshan2208) - Idea & Initial work
+- [@arhamgarg](https://github.com/arhamgarg)
+- [@JestiferHarold](https://github.com/JestiferHarold)
 
 ## 🎉 Acknowledgments <a name = "acknowledgments"></a>
 
