@@ -83,7 +83,7 @@ and testing purposes. See [deployment](#deployment) for notes on how to deploy t
 
 <!-- What things you need to install the software and how to install them. -->
 
-###Node 
+  Node 
 
 For Windows 
 
@@ -99,18 +99,33 @@ curl -o- https://fnm.vercel.app/install | bash
 fnm install 22
 ```
 
-verify 
+Verify installation 
 
 ```
 node -v
+npm -v
 ```
 
-###React
-
-
-
+  React
 
 ```
+npm install -g react react-dom
+```
+
+  Vite
+
+```
+npm install -g create-vite
+```
+
+  Verify installation 
+
+```
+create-vite --version
+```
+
+
+
 Give examples
 ```
 
