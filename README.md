@@ -128,18 +128,14 @@ Give examples
 
 ### Installing
 
-A step by step series of examples that tell you how to get a development env running.
+To run the application locally follow the steps given below
 
-Say what the step will be
-
-```
-Give the example
-```
-
-And repeat
+## Cloning
 
 ```
-until finished
+git clone
+cd 
+npm run build
 ```
 
 ## 🎈 Usage <a name="usage"></a>
@@ -149,7 +145,7 @@ Add notes about how to use the system.
 ## ⛏️ Built With <a name = "tech_stack"></a>
 
 - [AppWrite](https://www.mongodb.com/) - Database
-<!-- - [Express](https://expressjs.com/) - Server Framework -->
+<!-- [Express](https://expressjs.com/) - Server Framework -->
 <!-- - [VueJs](https://vuejs.org/) - Web Framework -->
 - [NodeJs](https://nodejs.org/en/) - Server Environment
 
