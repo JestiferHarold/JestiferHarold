@@ -83,23 +83,29 @@ and testing purposes. See [deployment](#deployment) for notes on how to deploy t
 
 <!-- What things you need to install the software and how to install them. -->
 
-####Node 
+###Node 
 
 For Windows 
 
-```winget install Schniz.fnm
-fnm install 22```
+```
+winget install Schniz.fnm
+fnm install 22
+```
 
 For MacOS and Linux
 
-```curl -o- https://fnm.vercel.app/install | bash
-fnm install 22```
+```
+curl -o- https://fnm.vercel.app/install | bash
+fnm install 22
+```
 
 verify 
 
-```node -v```
+```
+node -v
+```
 
-####React
+###React
 
 
 
