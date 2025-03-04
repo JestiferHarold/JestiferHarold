@@ -83,7 +83,7 @@ and testing purposes. See [deployment](#deployment) for notes on how to deploy t
 
 <!-- What things you need to install the software and how to install them. -->
 
-  Node 
+##Node 
 
 For Windows 
 
@@ -93,25 +93,30 @@ fnm install 22
 
 For MacOS and Linux
 
-```curl -o- https://fnm.vercel.app/install | bash
+```
+curl -o- https://fnm.vercel.app/install | bash
 fnm install 22
 ```
 
 Verify installation 
 
-```node -v
+```
+node -v
 npm -v
 ```
 
   React
 
-```npm install -g react react-dom
+```
+npm install -g react react-dom
 ```
 Vite
-```npm install -g create-vite
+```
+npm install -g create-vite
 ```
   Verify installation 
-```create-vite --version
+```
+create-vite --version
 ```
 
 Give examples
