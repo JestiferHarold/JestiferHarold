@@ -18,7 +18,6 @@
 - [Future Scope](#future_scope)
 - [Tech Stack](#tech_stack)
 - [Authors](#authors)
-- [Acknowledgments](#acknowledgments)
 
 ## 🧐 Problem Statement <a name = "problem_statement"></a>
 
@@ -36,6 +35,15 @@ their choices using a weighted recommendation algorithm, and suggests the most s
 movie based on collective preferences. The application integrates the TMDB API to fetch movie
 details, including ratings, ensuring informed decision-making.
 
+## 👨‍💻 Innovation And Impact <a name = "iai"></a>
+Our project introduces a collaborative filtering approach tailored for 
+group decision-making, setting it apart from traditional recommendation systems that focus 
+on individual users. The use of real-time TMDb ratings adds credibility and 
+transparency to the recommendations. By simplifying the movie selection process for 
+groups, this project enhances social experiences, making movie nights more enjoyable and 
+efficient. Additionally, the system's adaptability to various genres and user preferences
+makes it a valuable tool for any movie-watching scenario.
+
 ## 🚀 Future Scope <a name = "future_scope"></a>
 
 - A user feedback system
@@ -43,16 +51,7 @@ details, including ratings, ensuring informed decision-making.
 - Personalized recommendations based on user history
 - Integration with popular streaming services (e.g., Netflix, Amazon Prime)
 
-## 👨‍💻 Innovation And Impact <a name = "iai"></a>
-Our project introduces a collaborative filtering approach tailored for 
-group decision-making, setting it apart from traditional recommendation systems that focus 
-on individual users. The use of real-time IMDb ratings and reviews adds credibility and 
-transparency to the recommendations. By simplifying the movie selection process for 
-groups, this project enhances social experiences, making movie nights more enjoyable and 
-efficient. Additionally, the system's adaptability to various genres and user preferences
-makes it a valuable tool for any movie-watching scenario.
-
-## ⛏️ Built With <a name = "tech_stack"></a>
+## ⛏️ Tech Stack <a name = "tech_stack"></a>
 
 - [React](https://reactjs.org/) - Frontend Library
 - [Vite](https://vite.dev/) - Development Server
@@ -68,13 +67,3 @@ makes it a valuable tool for any movie-watching scenario.
 - [@arhamgarg](https://github.com/arhamgarg)
 - [@Dharshan2208](https://github.com/Dharshan2208) 
 - [@JestiferHarold](https://github.com/JestiferHarold)
-
-<!-- ## 🎉 Acknowledgments <a name = "acknowledgments"></a>
-
-- [React](https://react.dev/reference/react)
-- [Vite](https://vite.dev/guide/)
-- [Tailwind](https://tailwindcss.com/docs/installation/using-vite)
-- [Appwrite](https://appwrite.io/docs)
-- [Node.js](https://nodejs.org/docs/latest/api/)
-- [TMDB](https://www.themoviedb.org/) -->
-
