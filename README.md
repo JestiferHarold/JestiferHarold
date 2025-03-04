@@ -43,7 +43,7 @@ details, including ratings, ensuring informed decision-making.
 - Personalized recommendations based on user history
 - Integration with popular streaming services (e.g., Netflix, Amazon Prime)
 
-## 👨‍💻 Innovation And Impact < a name = "iai"></a>
+## 👨‍💻 Innovation And Impact <a name = "iai"></a>
 Our project introduces a collaborative filtering approach tailored for 
 group decision-making, setting it apart from traditional recommendation systems that focus 
 on individual users. The use of real-time IMDb ratings and reviews adds credibility and 
