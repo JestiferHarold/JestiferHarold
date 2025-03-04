@@ -2,34 +2,20 @@
   <a href="" rel="noopener">
  <img src="https://i.imgur.com/AZ2iWek.png" alt="Project logo"></a>
 </p>
-<h3 align="center">movie-mixer</h3>
-
-<div align="center">
-
-[![Hackathon](https://img.shields.io/badge/hackathon-name-orange.svg)](http://hackathon.url.com)
-[![Status](https://img.shields.io/badge/status-active-success.svg)]()
-[![GitHub Issues](https://img.shields.io/github/issues/kylelobo/The-Documentation-Compendium.svg)](https://github.com/kylelobo/The-Documentation-Compendium/issues)
-[![GitHub Pull Requests](https://img.shields.io/github/issues-pr/kylelobo/The-Documentation-Compendium.svg)](https://github.com/kylelobo/The-Documentation-Compendium/pulls)
-[![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE.md)
-
-</div>
+<h3 align="center">Movie Mixer</h3>
 
 ---
 
-<p align="center"> Smart Movie Recommender: Personalized Group-Based Movie  Suggestions
+<p align="center"> Movie Mixer: Personalized Group-Based Movie Suggestions
     <br> 
 </p>
 
 ## 📝 Table of Contents
 
 - [Problem Statement](#problem_statement)
-- [Idea / Solution](#idea)
-- [Dependencies / Limitations](#limitations)
+- [Solution](#solution)
 - [Future Scope](#future_scope)
-- [Setting up a local environment](#getting_started)
-- [Usage](#usage)
-- [Technology Stack](#tech_stack)
-- [Contributing](../CONTRIBUTING.md)
+- [Tech Stack](#tech_stack)
 - [Authors](#authors)
 - [Acknowledgments](#acknowledgments)
 
@@ -40,130 +26,45 @@ a time-consuming and frustrating task. Existing recommendation systems primarily
 individual preferences and do not effectively cater to group dynamics. Our project aims to
 streamline this process by providing a smart movie recommendation system that considers
 the choices of multiple users and suggests the most suitable movie while also presenting
-relevant details, ratings, and top reviews.
+relevant details and ratings.
 
-- IDEAL: This section is used to describe the desired or “to be” state of the process or product. At large, this section
-  should illustrate what the expected environment would look like once the solution is implemented.
-- REALITY: This section is used to describe the current or “as is” state of the process or product.
-- CONSEQUENCES: This section is used to describe the impacts on the business if the problem is not fixed or improved upon.
-  This includes costs associated with loss of money, time, productivity, competitive advantage, and so forth.
-
-Following this format will result in a workable document that can be used to understand the problem and elicit
-requirements that will lead to a winning solution.
-
-## 💡 Idea / Solution <a name = "idea"></a>
+## 💡 Solution <a name = "solution"></a>
 
 Our system collects movie preferences from a group of users, processes
 their choices using a weighted recommendation algorithm, and suggests the most suitable
-movie based on collective preferences. The application integrates IMDb API to fetch movie
-details, including ratings and reviews, ensuring informed decision-making. By incorporating
-user feedback mechanisms, the system improves over time, enhancing recommendation
-accuracy
+movie based on collective preferences. The application integrates the TMDB API to fetch movie
+details, including ratings, ensuring informed decision-making.
 
 ## 🚀 Future Scope <a name = "future_scope"></a>
 
-- A rating System
-- Movie details
-- User profile
-- Integration with other APIs (e.g., Rotten Tomatoes, Metacritic)
-- Personalized recommendations based on user history and preferences
-- Mobile app development for on-the-go access
+- A user feedback system
+- User profiles
+- Personalized recommendations based on user history
 - Integration with popular streaming services (e.g., Netflix, Amazon Prime)
-- Machine learning-based recommendation engine for more accurate suggestions
-- Social features to enable users to share and discuss movie recommendations
-- Integration with calendar and event planning services to suggest movies based on upcoming events
-- Development of a web scraper to fetch movie information from various sources
-- Development of a chatbot to provide movie recommendations and answer user queries
-- Development of a plugin for popular media players to provide movie recommendations based on user preferences
-
-## 🏁 Getting Started <a name = "getting_started"></a>
-
-These instructions will get you a copy of the project up and running on your local machine for development
-and testing purposes.
-
-### Prerequisites
-
-<!-- What things you need to install the software and how to install them. -->
-
-Node 
-
-For Windows 
-
-```winget install Schniz.fnm
-fnm install 22
-```
-
-For MacOS and Linux
-
-```
-curl -o- https://fnm.vercel.app/install | bash
-fnm install 22
-```
-
-Verify installation 
-
-```
-node -v
-npm -v
-```
-React
-
-```
-npm install -g react react-dom
-```
-Vite
-```
-npm install -g create-vite
-```
-  Verify installation 
-```
-create-vite --version
-```
-Tailwind
-```
-npm install -g tailwindcss 
-```
-
-### Cloning
-
-Clone the repository and run the project
-
-```
-git clone
-cd 
-npm run build
-```
-
-## 🎈 Usage <a name="usage"></a>
-
-Add notes about how to use the system.
 
 ## ⛏️ Built With <a name = "tech_stack"></a>
 
-- [AppWrite](https://www.mongodb.com/) - Database
-<!-- [Express](https://expressjs.com/) - Server Framework -->
-<!-- - [VueJs](https://vuejs.org/) - Web Framework -->
-- [NodeJs](https://nodejs.org/en/) - Server Environment
-- [Vercel](https://vercel.com/) - Deployment
+- [React](https://reactjs.org/) - Frontend Library
+- [Vite](https://vite.dev/) - Development Server
 - [Tailwind](https://tailwindcss.com/) - CSS Framework
-- [React](https://reactjs.org/) - Frontend Framework
-- [Vite](https://vitejs.dev/) - Development Server
+- [TMDb API](https://developer.themoviedb.org/docs/getting-started) - Data API
+- [Appwrite](https://www.appwrite.io/) - Database
+- [Node.js](https://nodejs.org/) - Runtime Environment
+- [Gemini API](https://ai.google.dev/gemini-api/docs) - AI API
+- [Vercel](https://vercel.com/) - Deployment
 
 ## ✍️ Authors <a name = "authors"></a>
 
-- [@arhamgarg](https://github.com/arhamgarg) - Idea & Initial work
+- [@arhamgarg](https://github.com/arhamgarg)
 - [@Dharshan2208](https://github.com/Dharshan2208) 
 - [@JestiferHarold](https://github.com/JestiferHarold)
 
-## 🎉 Acknowledgments <a name = "acknowledgments"></a>
+<!-- ## 🎉 Acknowledgments <a name = "acknowledgments"></a>
 
-- [AppWrite](https://appwrite.io/docs)
-- [NodeJs](https://nodejs.org/docs/latest/api/)
-- [Tailwind](https://tailwindcss.com/docs/installation/using-vite)
 - [React](https://react.dev/reference/react)
 - [Vite](https://vite.dev/guide/)
-- [TMDB](https://www.themoviedb.org/)
-- [IMDB](https://www.imdb.com/)
-- [CodeParrot](https://codeparrot.ai/blogs/a-beginners-guide-to-using-vite-react)
-- [DigitalOcean](https://www.digitalocean.com/community/tutorials/how-to-set-up-a-react-project-with-vite)
+- [Tailwind](https://tailwindcss.com/docs/installation/using-vite)
+- [Appwrite](https://appwrite.io/docs)
+- [Node.js](https://nodejs.org/docs/latest/api/)
+- [TMDB](https://www.themoviedb.org/) -->
 
