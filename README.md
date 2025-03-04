@@ -60,21 +60,26 @@ details, including ratings and reviews, ensuring informed decision-making. By in
 user feedback mechanisms, the system improves over time, enhancing recommendation
 accuracy
 
-## ⛓️ Dependencies / Limitations <a name = "limitations"></a>
-
-- No rating System.
-- No movie details.
-- No user profile.
-
 ## 🚀 Future Scope <a name = "future_scope"></a>
 
-Write about what you could not develop during the course of the Hackathon; and about what your project can achieve
-in the future.
+- A rating System
+- Movie details
+- User profile
+- Integration with other APIs (e.g., Rotten Tomatoes, Metacritic)
+- Personalized recommendations based on user history and preferences
+- Mobile app development for on-the-go access
+- Integration with popular streaming services (e.g., Netflix, Amazon Prime)
+- Machine learning-based recommendation engine for more accurate suggestions
+- Social features to enable users to share and discuss movie recommendations
+- Integration with calendar and event planning services to suggest movies based on upcoming events
+- Development of a web scraper to fetch movie information from various sources
+- Development of a chatbot to provide movie recommendations and answer user queries
+- Development of a plugin for popular media players to provide movie recommendations based on user preferences
 
 ## 🏁 Getting Started <a name = "getting_started"></a>
 
 These instructions will get you a copy of the project up and running on your local machine for development
-and testing purposes. See [deployment](#deployment) for notes on how to deploy the project on a live system.
+and testing purposes.
 
 ### Prerequisites
 
@@ -139,6 +144,10 @@ Add notes about how to use the system.
 <!-- [Express](https://expressjs.com/) - Server Framework -->
 <!-- - [VueJs](https://vuejs.org/) - Web Framework -->
 - [NodeJs](https://nodejs.org/en/) - Server Environment
+- [Vercel](https://vercel.com/) - Deployment
+- [Tailwind](https://tailwindcss.com/) - CSS Framework
+- [React](https://reactjs.org/) - Frontend Framework
+- [Vite](https://vitejs.dev/) - Development Server
 
 ## ✍️ Authors <a name = "authors"></a>
 
