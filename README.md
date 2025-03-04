@@ -83,7 +83,7 @@ and testing purposes. See [deployment](#deployment) for notes on how to deploy t
 
 <!-- What things you need to install the software and how to install them. -->
 
-##Node 
+Node 
 
 For Windows 
 
@@ -122,9 +122,9 @@ Tailwind
 npm install -g tailwindcss 
 ```
 
-### Installing
+### Cloning
 
-To run the application locally run the following command given below
+Clone the repository and run the project
 
 ```
 git clone
