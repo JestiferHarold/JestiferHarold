@@ -161,13 +161,13 @@ Add notes about how to use the system.
 
 ## 🎉 Acknowledgments <a name = "acknowledgments"></a>
 
-- [AppWrite] (https://appwrite.io/docs)
-- [NodeJs] (https://nodejs.org/docs/latest/api/)
-- [Tailwind] (https://tailwindcss.com/docs/installation/using-vite)
-- [React] (https://react.dev/reference/react)
-- [Vite] (https://vite.dev/guide/)
-- [TMDB] (https://www.themoviedb.org/)
-- [IMDB] (https://www.imdb.com/)
-- [CodeParrot] (https://codeparrot.ai/blogs/a-beginners-guide-to-using-vite-react)
-- [DigitalOcean] (https://www.digitalocean.com/community/tutorials/how-to-set-up-a-react-project-with-vite)
+- [AppWrite](https://appwrite.io/docs)
+- [NodeJs](https://nodejs.org/docs/latest/api/)
+- [Tailwind](https://tailwindcss.com/docs/installation/using-vite)
+- [React](https://react.dev/reference/react)
+- [Vite](https://vite.dev/guide/)
+- [TMDB](https://www.themoviedb.org/)
+- [IMDB](https://www.imdb.com/)
+- [CodeParrot](https://codeparrot.ai/blogs/a-beginners-guide-to-using-vite-react)
+- [DigitalOcean](https://www.digitalocean.com/community/tutorials/how-to-set-up-a-react-project-with-vite)
 
