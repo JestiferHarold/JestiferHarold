@@ -87,47 +87,29 @@ and testing purposes. See [deployment](#deployment) for notes on how to deploy t
 
 For Windows 
 
-```
-winget install Schniz.fnm
-fnm install 22
-```
+```winget install Schniz.fnm
+fnm install 22```
 
 For MacOS and Linux
 
-```
-curl -o- https://fnm.vercel.app/install | bash
-fnm install 22
-```
+```curl -o- https://fnm.vercel.app/install | bash
+fnm install 22```
 
 Verify installation 
 
-```
-node -v
-npm -v
-```
+```node -v
+npm -v```
 
   React
 
-```
-npm install -g react react-dom
-```
-
-  Vite
-
-```
-npm install -g create-vite
-```
-
+```npm install -g react react-dom```
+Vite
+```npm install -g create-vite```
   Verify installation 
-
-```
-create-vite --version
-```
-
-
+```create-vite --version```
 
 Give examples
-```
+
 
 ### Installing
 
