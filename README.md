@@ -16,7 +16,7 @@
 
 ---
 
-<p align="center"> Few lines describing your project.
+<p align="center"> Smart Movie Recommender: Personalized Group-Based Movie  Suggestions
     <br> 
 </p>
 
@@ -35,9 +35,12 @@
 
 ## 🧐 Problem Statement <a name = "problem_statement"></a>
 
-It is useful to design and follow a specific format when writing a problem statement. While there are several options
-for doing this, the following is a simple and straightforward template often used in Business Analysis to maintain
-focus on defining the problem.
+Choosing a movie for a group of people with diverse preferences can be
+a time-consuming and frustrating task. Existing recommendation systems primarily focus on
+individual preferences and do not effectively cater to group dynamics. Our project aims to
+streamline this process by providing a smart movie recommendation system that considers
+the choices of multiple users and suggests the most suitable movie while also presenting
+relevant details, ratings, and top reviews.
 
 - IDEAL: This section is used to describe the desired or “to be” state of the process or product. At large, this section
   should illustrate what the expected environment would look like once the solution is implemented.
@@ -50,10 +53,12 @@ requirements that will lead to a winning solution.
 
 ## 💡 Idea / Solution <a name = "idea"></a>
 
-This section is used to describe potential solutions.
-
-Once the ideal, reality, and consequences sections have been
-completed, and understood, it becomes easier to provide a solution for solving the problem.
+Our system collects movie preferences from a group of users, processes
+their choices using a weighted recommendation algorithm, and suggests the most suitable
+movie based on collective preferences. The application integrates IMDb API to fetch movie
+details, including ratings and reviews, ensuring informed decision-making. By incorporating
+user feedback mechanisms, the system improves over time, enhancing recommendation
+accuracy
 
 ## ⛓️ Dependencies / Limitations <a name = "limitations"></a>
 
@@ -76,7 +81,28 @@ and testing purposes. See [deployment](#deployment) for notes on how to deploy t
 
 ### Prerequisites
 
-What things you need to install the software and how to install them.
+<!-- What things you need to install the software and how to install them. -->
+
+####Node 
+
+For Windows 
+
+```winget install Schniz.fnm
+fnm install 22```
+
+For MacOS and Linux
+
+```curl -o- https://fnm.vercel.app/install | bash
+fnm install 22```
+
+verify 
+
+```node -v```
+
+####React
+
+
+
 
 ```
 Give examples
