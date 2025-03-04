@@ -104,8 +104,7 @@ Verify installation
 node -v
 npm -v
 ```
-
-  React
+React
 
 ```
 npm install -g react react-dom
@@ -123,14 +122,9 @@ Tailwind
 npm install -g tailwindcss 
 ```
 
-Give examples
-
-
 ### Installing
 
-To run the application locally follow the steps given below
-
-## Cloning
+To run the application locally run the following command given below
 
 ```
 git clone
