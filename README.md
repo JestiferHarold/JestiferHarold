@@ -22,7 +22,7 @@
 
 ## 📝 Table of Contents
 
-- [Problem Statement] ()
+- [Problem Statement] (#probl)
 - [Idea / Solution](#idea)
 - [Dependencies / Limitations](#limitations)
 - [Future Scope](#future_scope)
@@ -155,12 +155,19 @@ Add notes about how to use the system.
 
 ## ✍️ Authors <a name = "authors"></a>
 
-- [@Dharshan2208](https://github.com/Dharshan2208) - Idea & Initial work
-- [@arhamgarg](https://github.com/arhamgarg)
+- [@arhamgarg](https://github.com/arhamgarg) - Idea & Initial work
+- [@Dharshan2208](https://github.com/Dharshan2208) 
 - [@JestiferHarold](https://github.com/JestiferHarold)
 
 ## 🎉 Acknowledgments <a name = "acknowledgments"></a>
 
-- Hat tip to anyone whose code was used
-- Inspiration
-- References
+- [AppWrite] (https://appwrite.io/docs)
+- [NodeJs] (https://nodejs.org/docs/latest/api/)
+- [Tailwind] (https://tailwindcss.com/docs/installation/using-vite)
+- [React] (https://react.dev/reference/react)
+- [Vite] (https://vite.dev/guide/)
+- [TMDB] (https://www.themoviedb.org/)
+- [IMDB] (https://www.imdb.com/)
+- [CodeParrot] (https://codeparrot.ai/blogs/a-beginners-guide-to-using-vite-react)
+- [DigitalOcean] (https://www.digitalocean.com/community/tutorials/how-to-set-up-a-react-project-with-vite)
+
