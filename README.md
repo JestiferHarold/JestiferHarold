@@ -22,7 +22,7 @@
 
 ## 📝 Table of Contents
 
-- [Problem Statement] (#probl)
+- [Problem Statement](#problem_statement)
 - [Idea / Solution](#idea)
 - [Dependencies / Limitations](#limitations)
 - [Future Scope](#future_scope)
@@ -62,12 +62,9 @@ accuracy
 
 ## ⛓️ Dependencies / Limitations <a name = "limitations"></a>
 
-- What are the dependencies of your project?
-- Describe each limitation in detailed but concise terms
-- Explain why each limitation exists
-- Provide the reasons why each limitation could not be overcome using the method(s) chosen to acquire.
-- Assess the impact of each limitation in relation to the overall findings and conclusions of your project, and if
-  appropriate, describe how these limitations could point to the need for further research.
+- No rating System.
+- No movie details.
+- No user profile.
 
 ## 🚀 Future Scope <a name = "future_scope"></a>
 
