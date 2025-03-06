@@ -1,6 +1,6 @@
 <p align="center">
   <a href="" rel="noopener">
- <img src="https://i.imgur.com/AZ2iWek.png" alt="Project logo"></a>
+ <img src="https://cdn.fastly.steamstatic.com/steamcommunity/public/images/items/2861700/9946d8f06cee0cf8fd5a90e1a3515aa02f647520.webm" alt="Project logo"></a>
 </p>
 <h3 align="center">Movie Mixer</h3>
 
