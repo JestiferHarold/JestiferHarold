@@ -5,43 +5,23 @@
 </p>
 
 ---
-
-<p>
-  <img src = "![JestiferHarold's Stats](https://github-readme-stats.vercel.app/api?username=JestiferHarold&theme=radical&show_icons=true&hide_border=false&count_private=false)">
-</p>
-
+### **About Me**
+- 😇 I find extraodinary things in ordinary people.
+- 🤩 I love to sing and dance.
+- 🤓 I'm a history nerd.
 ---
 
-Away down South in the land of traitors, rattlesnakes and alligators <Br>
-Right away! Come away! Right away! Right away, come away! <Br>
-Where cotton's king and men are chattels <Br>
-Union boys will win the battles <Br>
-Right away! Come away! Right away, come away! <Br>
-<Br>
-We'll all go down to Dixie, away, away! <Br>
-Each Dixie boy must understand that he must mind his Uncle Sam <Br>
-Away! Away! We'll all go down to Dixie! <Br>
-Away! Away! We'll all go down to Dixie! <Br>
-<Br>
-I wish I was in Baltimore, I'd make secession traitors roar <Br>
-Right away! Come away! Right away! Come away! Right away, come away! <Br>
-We'll put the traitors all to route, I'll bet my boots we'll whip 'em out <Br>
-Right away! Come away! Right away, come away! <Br>
-<Br>
-We'll all go down to Dixie, away, away! <Br>
-Each Dixie boy must understand that he must mind his Uncle Sam <Br>
-Away! Away! We'll all go down to Dixie! <Br>
-Away! Away! We'll all go down to Dixie! <Br>
-<Br>
-Oh may our Stars and Stripes still wave forever roar the free and brave! <Br>
-Right away! Come away! Right away, come away! Come away! <Br>
-And let our motto forever be for Union and for Liberty <Br>
-Right away! Come away! Right away, come away! <Br>
-<Br>
-We'll all go down to Dixie, away, away! <Br>
-Each Dixie boy must understand that he must mind his Uncle Sam <Br>
-Away! Away! We'll all go down to Dixie! <Br>
-Away! Away! We'll all go down to Dixie! <Br>
-<!-- </marquee> -->
-<img src = https://static.wikitide.net/polandballwiki/thumb/7/7b/Quebecball.png/640px-Quebecball.png>
+### **Github Stats**
 
+<div align = "Center">
+  <img src = "https://github-readme-stats.vercel.app/api?username=JestiferHarold&theme=jolly&show_icons=true&hide_border=true&count_private=false">
+  <img src = "https://github-readme-streak-stats.herokuapp.com/?user=JestiferHarold&theme=jolly&hide_border=true">
+<!--   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=JestiferHarold&theme=jolly&show_icons=true&hide_border=true&layout=compact"> -->
+</div>
+
+---
+<!-- </marquee> -->
+ 
+<!-- "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFeJ3YgnW91TOoFyarn-OCrXD3YgbTY7T8Iw&s"> -->
+<img src = "https://i.redd.it/7qhj8r1tqjne1.png" align = "center">
+<!-- <img src = "https://camo.githubusercontent.com/d29e12fc9dbe987a57f309d86d9b8f81b45c7d8e7a09d5217464f8893e8dc2a7/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e6726636f6c6f723d6772616469656e74266865696768743d36302673656374696f6e3d666f6f746572"> -->
