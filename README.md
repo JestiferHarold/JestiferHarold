@@ -9,6 +9,7 @@
 - 😇 I find extraodinary things in ordinary people.
 - 🤩 I love to sing and dance.
 - 🤓 I'm a history nerd.
+- 🦉 I want to work in a water sprinkler company.
 ---
 
 ### **Github Stats**
