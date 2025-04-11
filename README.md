@@ -1,13 +1,13 @@
-<h1 align = "center">😃 Bonjour 😃</h1>
+<!--h1 align = "center">😃 Bonjour 😃</h1-->
 
-<p align = "center">
-  <img src = "https://readme-typing-svg.herokuapp.com/?font=Fira+Code&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Open-source+Contributor+%F0%9F%A4%93;Loves+%F0%9F%98%9B;Professional+Yapper+%F0%9F%98%B8">
-</p>
+<!--<p align = "center"-->
+  <!--img src = "https://readme-typing-svg.herokuapp.com/?font=Fira+Code&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Open-source+Contributor+%F0%9F%A4%93;Loves+%F0%9F%98%9B;Professional+Yapper+%F0%9F%98%B8"-->
+<!--/p-->
 
 ---
 ### **About Me**
-- 😇 I find extraodinary things in ordinary people.
-- 🤩 I love to sing and dance.
+<!-- 😇 I find extraodinary things in ordinary people. -->
+<!-- 🤩 I love to sing and dance.-->
 - 🤓 I'm a history nerd.
 - 🦉 I want to work in a water sprinkler company.
 ---
