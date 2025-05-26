@@ -14,13 +14,16 @@
 <!-- 🦉 I want to work in a water sprinkler company.
 <!----->
 
----
 
-<div align = "Center">
+<div align = "center">
+  <img src = "https://i.ytimg.com/vi/DsStFKUNeDQ/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLCYPvCMkMWVYujuKsGwh-xo2Oiw7A">
+</div>
+
+<!--div align = "Center">
   <img src = "https://github-readme-stats.vercel.app/api?username=JestiferHarold&theme=jolly&show_icons=true&hide_border=true&count_private=false">
 <!--   <img src = "https://github-readme-streak-stats.herokuapp.com/?user=JestiferHarold&theme=jolly&hide_border=true"> -->
 <!--   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=JestiferHarold&theme=jolly&show_icons=true&hide_border=true&layout=compact"> -->
-</div>
+</div >  
 
 <!-- </marquee> -->
  
