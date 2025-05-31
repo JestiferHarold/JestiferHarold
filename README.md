@@ -3,8 +3,17 @@
 <!--<p align = "center"-->
   <!--img src = "https://readme-typing-svg.herokuapp.com/?font=Fira+Code&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Open-source+Contributor+%F0%9F%A4%93;Loves+%F0%9F%98%9B;Professional+Yapper+%F0%9F%98%B8"-->
 <!--/p-->
-<div align = "Center">
+<!--div align = "Center">
   <img src = "https://media1.tenor.com/m/lCdXYT4N8BAAAAAd/chainsaw-man-power.gif">
+</div>
+<div align = "center">
+    <img src = "https://media1.tenor.com/m/tBAFtaYl7HIAAAAd/look-back-fujino.gif">
+</div-->
+<div align = "center">
+    <img src = "https://64.media.tumblr.com/7e192e586fabec593bc8789f9acd7aa2/438a261e879788c9-cb/s540x810/ea0dd76ca289a492707dc460f008a78f5f9910c1.gifv">
+</div>
+<div align = "center">
+    <img src = "https://64.media.tumblr.com/03b8fb594ccb54e11e22da443d670ed1/438a261e879788c9-d4/s540x810/86a4bcbcfde355e4cd5ae1b7c082ec2a24d5bfbb.gifv">
 </div>
 
 <!--### **About Me**
