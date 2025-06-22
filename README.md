@@ -134,7 +134,7 @@
 <br clear="both">
 
 <div align="left">
-  <a href="https://www.instagram.com/ifwybbg/" target="_blank">
+  <a href="https://www.instagram.com/ikykmenowshut/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
   </a>
   <a href="mailto:sanjay.pandian@tutamail.com" target="_blank">
